@@ -2,6 +2,8 @@
 
 This folder contains materials for the final project presentation.
 
+The presentation summarizes the analysis and provides business recommendations based on model performance, as required by the project guidelines.
+
 ## Contents
 - Final slide deck (PDF or PowerPoint)
 - Link to recorded presentation (if applicable)
