@@ -2,6 +2,8 @@
 
 This folder contains all datasets used in the project.
 
+This dataset meets project requirements of having thousands of records and multiple independent variables for modeling.
+
 ## Files
 - tesla_stock_data_2010_2025.csv  
   → Historical Tesla stock data including price, volume, and technical indicators
