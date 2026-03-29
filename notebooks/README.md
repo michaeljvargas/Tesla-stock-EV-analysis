@@ -2,6 +2,8 @@
 
 This folder contains the main analysis notebook for the project.
 
+The notebook follows the CRISP-DM framework as required by the assignment and includes 2–3 machine learning models.
+
 ## Contents
 - tesla_analysis.ipynb  
   → Full workflow including:
